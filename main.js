@@ -203,4 +203,4 @@ decrypter = message => {
     return decryptedMessage;
 };
 
-console.log("the decryted message is ", decrypter("H$__₦ &₦] ~<$ ,₦|"));
+console.log("The decryted message is ", decrypter("H$__₦ &₦] ~<$ ,₦|"));
